@@ -1,0 +1,1 @@
+# CRUD-Input-Stock-Store
